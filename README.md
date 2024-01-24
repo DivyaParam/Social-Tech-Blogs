@@ -1,4 +1,4 @@
-Here are a bunch of technical blogs that I wrote during my time working as a Technical Writer with Zoho! Give it a read, I'm sure you will like it :)
+Here are a bunch of technical blogs that I wrote during my time working as a Technical Writer for Zoho! Give it a read, I'm sure you will like it :)
 
 How bots can help improve workflow : https://www.zoho.com/blog/cliq/how-bots-can-help-improve-your-workflow.html
 
